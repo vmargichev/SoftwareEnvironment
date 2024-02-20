@@ -1,0 +1,15 @@
+C:\Users\VeselinMargichev\source\repos\SoftwareEnvironment\PS_45_Veselin\Welcome\bin\Debug\net8.0\Welcome.exe
+C:\Users\VeselinMargichev\source\repos\SoftwareEnvironment\PS_45_Veselin\Welcome\bin\Debug\net8.0\Welcome.deps.json
+C:\Users\VeselinMargichev\source\repos\SoftwareEnvironment\PS_45_Veselin\Welcome\bin\Debug\net8.0\Welcome.runtimeconfig.json
+C:\Users\VeselinMargichev\source\repos\SoftwareEnvironment\PS_45_Veselin\Welcome\bin\Debug\net8.0\Welcome.dll
+C:\Users\VeselinMargichev\source\repos\SoftwareEnvironment\PS_45_Veselin\Welcome\bin\Debug\net8.0\Welcome.pdb
+C:\Users\VeselinMargichev\source\repos\SoftwareEnvironment\PS_45_Veselin\Welcome\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeselinMargichev\source\repos\SoftwareEnvironment\PS_45_Veselin\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\VeselinMargichev\source\repos\SoftwareEnvironment\PS_45_Veselin\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+C:\Users\VeselinMargichev\source\repos\SoftwareEnvironment\PS_45_Veselin\Welcome\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\VeselinMargichev\source\repos\SoftwareEnvironment\PS_45_Veselin\Welcome\obj\Debug\net8.0\Welcome.sourcelink.json
+C:\Users\VeselinMargichev\source\repos\SoftwareEnvironment\PS_45_Veselin\Welcome\obj\Debug\net8.0\Welcome.dll
+C:\Users\VeselinMargichev\source\repos\SoftwareEnvironment\PS_45_Veselin\Welcome\obj\Debug\net8.0\refint\Welcome.dll
+C:\Users\VeselinMargichev\source\repos\SoftwareEnvironment\PS_45_Veselin\Welcome\obj\Debug\net8.0\Welcome.pdb
+C:\Users\VeselinMargichev\source\repos\SoftwareEnvironment\PS_45_Veselin\Welcome\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
+C:\Users\VeselinMargichev\source\repos\SoftwareEnvironment\PS_45_Veselin\Welcome\obj\Debug\net8.0\ref\Welcome.dll
