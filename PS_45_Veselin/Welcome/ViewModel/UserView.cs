@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Welcome.ViewModel
 {
-    internal class UserView
+    public class UserView
     {
         private UserViewModel _viewModel;
 
@@ -20,6 +20,11 @@ namespace Welcome.ViewModel
             Console.WriteLine("Welcome");
             Console.WriteLine("User: " + _viewModel.Name);
             Console.WriteLine("Role: " + _viewModel.Role);
+        }
+
+        public void DisplayError()
+        {
+            throw new Exception("Exceptionn");
         }
     }
 }
