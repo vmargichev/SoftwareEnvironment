@@ -8,12 +8,15 @@ namespace DataLayer.Model
 {
     public class DatabaseUser : User
     {
+        public DatabaseUser() : base("", "", UserRolesEnum.ADMIN)
+        {
+        }
         public DatabaseUser(string names, string password, UserRolesEnum role, DateTime expires) : base(names, password, role, expires)
         {
         }
 
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
+        public int Id;
     }
 }
